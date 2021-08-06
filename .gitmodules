@@ -1,3 +1,6 @@
 [submodule "springboot-angular"]
 	path = springboot-angular
 	url = https://github.com/apratimnath/springboot-angular.git
+[submodule "spring-cloud-practice"]
+	path = spring-cloud-practice
+	url = https://github.com/apratimnath/spring-cloud-practice.git
